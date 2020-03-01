@@ -14,4 +14,4 @@ $(NAME).dvi: $(NAME).tex
 clean:
 		-rm $(NAME).ps $(NAME).dvi $(NAME).aux  $(NAME).log $(NAME).out $(NAME).toc $(NAME).snm $(NAME).nav $(NAME).blg $(NAME).bbl
 zipit:
-		zip xstrna14-fit.zip $(NAME).tex Makefile czechiso.bst $(NAME).bib codeexample.c
+		zip xplagi0b-fit.zip $(NAME).tex Makefile czechiso.bst $(NAME).bib codeexample.c
