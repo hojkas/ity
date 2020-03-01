@@ -12,4 +12,4 @@ $(NAME).dvi: $(NAME).tex
 clean:
 		-rm $(NAME).ps $(NAME).dvi $(NAME).aux  $(NAME).log $(NAME).out
 zipit:
-		zip xstrna14-fit.zip $(NAME).tex Makefile oniisan.eps oniisan2.eps etiopan.eps
+		zip xplagi0b-fit.zip $(NAME).tex Makefile oniisan.eps oniisan2.eps etiopan.eps
