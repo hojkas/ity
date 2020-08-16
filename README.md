@@ -1,5 +1,5 @@
 # ITY - Typografie a publikování 
-letní semestr 2019
+letní semestr ročníku 2018/2019
 
 ## Proj1
 
